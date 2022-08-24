@@ -103,3 +103,34 @@ a:visited {
   background-color: #f55116;
   border: 2px solid #f55116;
 }
+
+/* ---- Course Section ------- */
+.course-section {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+  margin-top: 60px;
+}
+
+.course-section h1 {
+  font-size: 2rem;
+  font-weight: bolder;
+  margin-bottom: 20px;
+}
+
+.row {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 20px;
+  gap: 30px;
+}
+
+.course-col {
+  padding: 20px;
+  background-color: #f1e8f4;
+}
+
+.course-col:hover {
+}
