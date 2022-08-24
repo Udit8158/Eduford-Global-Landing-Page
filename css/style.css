@@ -198,3 +198,30 @@ a:visited {
   bottom: 49%;
   opacity: 1;
 }
+
+/* -----Facility Section -------------- */
+.facility-section {
+  width: 80%;
+  margin: auto;
+  margin-top: 40px;
+  text-align: center;
+}
+
+.facility-section h2 {
+  font-size: 2rem;
+  font-weight: bolder;
+}
+
+.facility-col img {
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+}
+
+/* ----- Student's Review Section --------------------- */
+.student-review-section {
+  width: 80%;
+  text-align: center;
+  margin: auto;
+  margin-top: 140px;
+}
