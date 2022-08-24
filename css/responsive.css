@@ -19,7 +19,9 @@
   .cancel-btn {
     display: block;
   }
+}
 
+@media (max-width: 800px) {
   .course-section {
     width: 100%;
   }
