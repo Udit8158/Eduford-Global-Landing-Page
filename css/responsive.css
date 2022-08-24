@@ -34,7 +34,16 @@
     grid-template-columns: auto;
     grid-template-rows: auto auto auto;
   }
+  .course-section {
+    width: 90%;
+  }
 }
 
 @media (max-width: 425px) {
+  .course-section {
+    width: 100%;
+  }
+  /* .course-col {
+    width: 90%;
+  } */
 }
