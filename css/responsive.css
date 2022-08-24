@@ -19,6 +19,10 @@
   .cancel-btn {
     display: block;
   }
+
+  .course-section {
+    width: 100%;
+  }
 }
 
 @media (max-width: 640px) {
@@ -33,9 +37,6 @@
   .row {
     grid-template-columns: auto;
     grid-template-rows: auto auto auto;
-  }
-  .course-section {
-    width: 90%;
   }
 }
 
