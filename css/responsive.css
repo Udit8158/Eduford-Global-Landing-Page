@@ -43,10 +43,13 @@
 }
 
 @media (max-width: 425px) {
+  .hero-heading {
+    font-size: 1.3rem;
+  }
+  .hero-text-container p {
+    font-size: 0.9rem;
+  }
   .course-section {
     width: 100%;
   }
-  /* .course-col {
-    width: 90%;
-  } */
 }
