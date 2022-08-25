@@ -23,6 +23,12 @@
   .facility-row {
     gap: 100px;
   }
+  .contact-banner h1 {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+    font-weight: bolder;
+    color: white;
+  }
 }
 
 @media (max-width: 1080px) {

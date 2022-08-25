@@ -225,3 +225,80 @@ a:visited {
   margin: auto;
   margin-top: 140px;
 }
+
+.review-container {
+  width: 100%;
+  background-color: #fff3f3;
+  position: relative;
+  padding: 20px 10px 20px 60px;
+  text-align: left;
+}
+
+.review-container img {
+  width: 40px;
+  border-radius: 40px;
+  position: absolute;
+  left: 10px;
+  top: 10px;
+}
+
+.review-container h4 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.review-container .fa-solid {
+  color: orange;
+}
+
+/* ----- Contact Banner --------- */
+
+.contact-banner {
+  width: 80%;
+  margin: auto;
+  background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
+    url("../img/banner2.jpg");
+  height: 40vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  margin-top: 60px;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.contact-banner h1 {
+  font-size: 2rem;
+  margin-bottom: 30px;
+  font-weight: bolder;
+  color: white;
+}
+
+/* About  */
+.about-section {
+  width: 80%;
+  text-align: center;
+  margin: auto;
+  margin-top: 60px;
+}
+
+.about-section p {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.fa-brands {
+  margin-left: 20px;
+  color: #f55116;
+}
+
+.fa-facebook-f {
+  margin-left: 0;
+}
+
+.fa-heart-o {
+  color: #f55116;
+}
